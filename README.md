@@ -14,11 +14,11 @@ This is a Plymouth theme created for Ubuntu 16.04 (can be also used in other Lin
 
 Clone this repository.
 
-    sudo git clone https://github.com/krishnan793/PlymouthTheme-Cat.git
+    sudo git clone https://github.com/krishnan793/PlymouthTheme-Cat.git eionix-cat
     
 Install the theme.
 
-    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/PlymouthTheme-Cat/eionix-cat.plymouth 100
+    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/eionix-cat/eionix-cat.plymouth 100
 
 Select the default theme.
 
